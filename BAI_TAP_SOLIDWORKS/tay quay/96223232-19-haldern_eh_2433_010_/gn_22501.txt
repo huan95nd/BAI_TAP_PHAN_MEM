@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-19062013-084538";"";
+"REFERENCE";"GN.22501";"";
+"TraceParts.ClassPath";"/F_ELESA/ELESA.010/ELESA.010.040/";"";
+"TraceParts.PartVersion";"1.1.9";"";
+"TraceParts.InstanceId";"10-19062013-084538CMEQZRU2PJH4J28YX6J1P8LXW";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"001G - GN 471 - GN 471.1 - Crank handles - Aluminium or zinc alloy";"";
+"SUPPLIER";"ELESA";"";
+"DESIGN";"GN 471.1-64-B10";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"EH 2433.010 ";"";
+"MATERIAL";"Handle body: size 63 GTW/ sizes 80-250:GGG";"";
+"SUPPLIER";"HALDER-Standard Parts";"";
+"MASS";"115 g";"";
+"TraceParts.PartNumber";"68-04022008-207525";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"EH 24330.0010 Crank Handles, DIN 469, straight, with square, with rotating machine handle EH 24460., DIN 98";"";
+"TraceParts.InstanceId";"68-04022008-207525CZEH0NBY4GJJ9FLADN4072K8H";"";
+"TraceParts.PartTitle";"EH 24330. Crank Handles, DIN 469, straight, with square, with rotating machine handle EH 24460.";"";
+"TraceParts.PartVersion";"1.3.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"/F_HALDER/HALDER.1/HALDER.1.3/HALDER.1.3.3/";"";
+"TraceParts.PartStatus";"Published";"";

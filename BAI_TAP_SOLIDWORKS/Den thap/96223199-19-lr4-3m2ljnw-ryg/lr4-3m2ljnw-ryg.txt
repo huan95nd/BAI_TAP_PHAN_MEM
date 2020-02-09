@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-19072019-044818";"";
+"REFERENCE";"LR4-3M2LJNW-RYG";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.InstanceId";"90-19072019-04481878P2ST6ENTHNY6M228NL8S6AD";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Patlite signal tower, 3 tiers, 40mm diameter, red, amber and green LED module(s), continuous light function, 100-240 VAC, colored lens, IP54, 150mm body length, off-white.";"";
+"SUPPLIER";"AutomationDirect";"";
+"DESIGN";"Patlite signal tower, 3 tiers, 40mm diameter, red, amber and green LED module(s), continuous light function, 100-240 VAC, colored lens, IP54, 150mm body length, off-white.";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

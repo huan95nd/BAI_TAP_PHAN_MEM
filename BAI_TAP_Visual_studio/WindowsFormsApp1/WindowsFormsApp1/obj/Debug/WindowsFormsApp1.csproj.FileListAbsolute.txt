@@ -1,0 +1,14 @@
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\IToolS.Data.dll
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\IToolS.dll
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\IToolS.IOServers.Mitsubishi.dll
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\S7.Net.dll
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\S7.Net.pdb
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete

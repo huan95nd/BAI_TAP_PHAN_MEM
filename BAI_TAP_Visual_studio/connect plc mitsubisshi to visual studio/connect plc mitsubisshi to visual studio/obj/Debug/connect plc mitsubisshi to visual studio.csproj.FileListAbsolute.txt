@@ -1,0 +1,14 @@
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\bin\Debug\connect plc mitsubisshi to visual studio.exe.config
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\bin\Debug\connect plc mitsubisshi to visual studio.exe
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\bin\Debug\connect plc mitsubisshi to visual studio.pdb
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\connect plc mitsubisshi to visual studio.csprojAssemblyReference.cache
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\Interop.ActUtlTypeLib.dll
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\AxInterop.ActUtlTypeLib.dll
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\connect plc mitsubisshi to visual studio.csproj.ResolveComReference.cache
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\connect_plc_mitsubisshi_to_visual_studio.Form1.resources
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\connect_plc_mitsubisshi_to_visual_studio.Properties.Resources.resources
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\connect plc mitsubisshi to visual studio.csproj.GenerateResource.cache
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\connect plc mitsubisshi to visual studio.exe
+E:\BAI_TAP_PHAN_MEM\BAI_TAP_Visual_studio\connect plc mitsubisshi to visual studio\connect plc mitsubisshi to visual studio\obj\Debug\connect plc mitsubisshi to visual studio.pdb

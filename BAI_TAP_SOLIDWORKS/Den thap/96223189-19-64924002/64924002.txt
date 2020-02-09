@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-19072019-045896";"";
+"REFERENCE";"64924002";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.InstanceId";"90-19072019-04589678P2ST6ENTHNY6M228NL8S6AD";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"WERMA stack light (tower light), 3-units, permanent light function, green / yellow / red lens, 24 VAC/VDC, IP65.";"";
+"SUPPLIER";"AutomationDirect";"";
+"DESIGN";"WERMA stack light (tower light), 3-units, permanent light function, green / yellow / red lens, 24 VAC/VDC, IP65.";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

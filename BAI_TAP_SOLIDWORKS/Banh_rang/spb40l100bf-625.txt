@@ -1,0 +1,13 @@
+"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-18072019-047234";"";
+"REFERENCE";"SPB40L100BF-625";"";
+"TraceParts.ClassPath";"AUTOMATION_DIRECT:/F_AUTOMATION_DIRECT/AD.755373/AD.755373.1096481/AD.755373.1096481.1096483/AD.755373.1096481.1096483.1311327/90-18072019-047234";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.InstanceId";"90-18072019-04723478P2ST6ENTHNY6M228NL8S6AD";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"SureMotion timing pulley, steel, 3/8in L pitch, 40 tooth, 4.775in pitch diameter, 5/8in bore, hub with flanges. For use with 1in wide belt.";"";
+"SUPPLIER";"AutomationDirect";"";
+"DESIGN";"SureMotion timing pulley, steel, 3/8in L pitch, 40 tooth, 4.775in pitch diameter, 5/8in bore, hub with flanges. For use with 1in wide belt.";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

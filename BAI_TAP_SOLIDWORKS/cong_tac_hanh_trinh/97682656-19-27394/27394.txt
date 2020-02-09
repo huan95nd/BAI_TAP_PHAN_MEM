@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"3SE54230CN201EA2";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"SUPPLIER";"Siemens";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"7557913";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Limit Switch,Metal,40mm,w/ twist lever";"";
+"TraceParts.InstanceId";"10-26092012-099275AXPY92WFMMLU0KPKL1KOWO2EH";"";
+"TraceParts.PartTitle";"Limit Switch,Metal,40mm,w/ twist lever";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"18/9/2012 16:16:23";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-26092012-099275";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-26092012-099275";"";

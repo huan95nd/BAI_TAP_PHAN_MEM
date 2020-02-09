@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-18072019-045820";"";
+"REFERENCE";"PSS24-100";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.InstanceId";"90-18072019-04582078P2ST6ENTHNY6M228NL8S6AD";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"RHINO switching power supply, 24 VDC (adjustable) output, 4.17A, 100W, 120/240 VAC or 100-375 VDC nominal input, 1-phase, aluminum housing, panel mount, screw terminals.";"";
+"SUPPLIER";"AutomationDirect";"";
+"DESIGN";"RHINO switching power supply, 24 VDC (adjustable) output, 4.17A, 100W, 120/240 VAC or 100-375 VDC nominal input, 1-phase, aluminum housing, panel mount, screw terminals.";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
